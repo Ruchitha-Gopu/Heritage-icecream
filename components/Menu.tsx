@@ -53,9 +53,7 @@ export default function Menu() {
                     sizes="(max-width: 640px) 90vw, (max-width: 1024px) 45vw, 22vw"
                     className="object-cover"
                   />
-                  <span className="absolute right-2 top-2 rounded-full bg-sunshine px-3 py-1 text-xs font-bold text-cocoa shadow">
-                    {item.price}
-                  </span>
+                  
                 </div>
                 <div className="p-4">
                   <h3 className="font-display text-base font-semibold text-cocoa">

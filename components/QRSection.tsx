@@ -56,15 +56,7 @@ export default function QRSection() {
               >
                 Share Our Website
               </button>
-              <p className="mt-3 text-xs text-cocoa/50">
-                Note: the QR code above points to{" "}
-                <code className="rounded bg-cream px-1.5 py-0.5">
-                  {siteConfig.websiteUrl}
-                </code>{" "}
-                — update <code className="rounded bg-cream px-1.5 py-0.5">websiteUrl</code>{" "}
-                in <code className="rounded bg-cream px-1.5 py-0.5">data/siteConfig.ts</code>{" "}
-                once the site is deployed.
-              </p>
+              
             </div>
           </div>
         </Reveal>

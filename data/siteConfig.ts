@@ -22,12 +22,12 @@ export const siteConfig = {
   // TODO: Replace with your exact Google Maps share link.
   // Open Google Maps -> search your shop -> Share -> Embed a map -> copy the src URL here.
   googleMapsEmbedUrl:
-    "https://www.google.com/maps?q=Godavari+Andhra+Cooperative+Bank+Tenali+Road+Cherukupalli&output=embed",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.6257495137224!2d80.64276487513955!3d16.23966878446481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a07dafe23b7bf%3A0x441750876ed9ddcf!2sGodavari%20Andhra%20Co-Operative%20Society%20Ltd%2CTenali!5e0!3m2!1sen!2sin!4v1791088448025!5m2!1sen!2sin",
   googleMapsDirectionsUrl:
     "https://www.google.com/maps/dir/?api=1&destination=Godavari+Andhra+Cooperative+Bank+Tenali+Road+Cherukupalli",
 
   // TODO: Replace with the final deployed website URL once known.
-  websiteUrl: "https://YOUR_WEBSITE_URL",
+  websiteUrl: "https://heritage-icecream-parlour.netlify.app/",
 
   // TODO: Replace with your real social profile links.
   social: {

@@ -27,12 +27,7 @@ export default function Location() {
                 className="h-[320px] w-full sm:h-[400px]"
               />
             </div>
-            <p className="mt-2 text-xs text-cocoa/50">
-              Map shown above is based on a general search for the address.
-              Replace <code className="rounded bg-blush/40 px-1.5 py-0.5">googleMapsEmbedUrl</code>{" "}
-              in <code className="rounded bg-blush/40 px-1.5 py-0.5">data/siteConfig.ts</code> with
-              your exact Google Maps link for precise directions.
-            </p>
+            
           </Reveal>
 
           <Reveal delayMs={100}>
